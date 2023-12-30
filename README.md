@@ -1,0 +1,1 @@
+Designed and implemented a robust real-time chat application using NodeJs, and Socketio, enhancing user engagement through instant messaging. Leveraged JavaScript, Html, and CSS to create an intuitive and responsive user interface
